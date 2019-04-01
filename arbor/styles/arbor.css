@@ -30,3 +30,10 @@ a:hover {
 .right {
  margin-left: 70%;
 }
+.left {
+ float: left;
+ width: 70%;
+}
+.right {
+ margin-left: 70%
+}
